@@ -59,6 +59,6 @@ Follow the on-screen prompts to manage your movie collection.
 
 Sreyeesh Garimella - sreyeeshgarimella@sgproduction.ee
 
-Project Link: [https://github.com/Sreyeesh/Milestone_Project_1](https://github.com/Sreyeesh/Movie-Tracker-CLI)
+Project Link: [https://github.com/Sreyeesh/Movie-Tracker-CLI](https://github.com/Sreyeesh/Movie-Tracker-CLI)
 
 ---
