@@ -4,6 +4,10 @@
 
 Movie Tracker is a command-line interface application for managing and tracking your personal movie collection. It allows you to add, list, find, and update details about movies you've watched or plan to watch. This project is developed in Python and demonstrates proficiency in building CLI applications.
 
+## Interactive Demo
+Try out Movie Tracker CLI directly in your browser: [Movie Tracker CLI on Replit](https://replit.com/@sreyeeshgarimel/Movie-Maker-CLI)
+
+
 ## Features
 
 - **Add a Movie**: Add new movies to your collection with details like title, director, and release year.
