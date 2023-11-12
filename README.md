@@ -62,8 +62,3 @@ Sreyeesh Garimella - sreyeeshgarimella@sgproduction.ee
 Project Link: [https://github.com/Sreyeesh/Milestone_Project_1](https://github.com/Sreyeesh/Movie-Tracker-CLI)
 
 ---
-
-### Notes
-
-- The section "Example On-Screen Prompts" gives a preview of what users will see when they run the program, making the usage instructions more relatable.
-- Ensure to replace any placeholders or add more details as necessary to make the README more accurate and helpful for users.
