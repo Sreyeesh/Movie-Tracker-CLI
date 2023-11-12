@@ -31,7 +31,7 @@ cd Movie-Tracker-CLI
 Run the program:
 
 ```bash
-python movie_tracker.py
+python3 movie_tracker.py
 ```
 
 ### Example On-Screen Prompts
@@ -59,7 +59,7 @@ Follow the on-screen prompts to manage your movie collection.
 
 Sreyeesh Garimella - sreyeeshgarimella@sgproduction.ee
 
-Project Link: [https://github.com/Sreyeesh/Movie-Tracker-CLI](https://github.com/Sreyeesh/Movie-Tracker-CLI)
+Project Link: [https://github.com/Sreyeesh/Milestone_Project_1](https://github.com/Sreyeesh/Movie-Tracker-CLI)
 
 ---
 
