@@ -59,9 +59,6 @@ Your choice:
 Follow the on-screen prompts to manage your movie collection.
 
 
-## Contact
-
-Sreyeesh Garimella - sreyeeshgarimella@sgproduction.ee
 
 Project Link: [https://github.com/Sreyeesh/Movie-Tracker-CLI](https://github.com/Sreyeesh/Movie-Tracker-CLI)
 
